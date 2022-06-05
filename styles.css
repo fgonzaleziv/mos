@@ -1,0 +1,40 @@
+
+body {
+  font-family: Montserrat;
+  font-style: normal;
+  background: #a4a174;
+  text-align: center;
+  color: #ffffff;
+}
+
+h1{
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+
+.spaced{
+    letter-spacing: 0.25em;
+}
+.mos-link {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 600;
+}
+.mos-link:hover {
+  color: #dddddd;
+  text-decoration: none;
+  font-weight: 600;
+}
+.mother-of-suns {
+  max-height: 75%;
+  width: auto;
+}
+
+.mos-btn{
+  color: #ffffff;
+  background-color: #e28667;
+  border-color: #e28667;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
